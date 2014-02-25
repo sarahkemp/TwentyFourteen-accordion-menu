@@ -22,3 +22,14 @@
  * Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
+function TwentyFourteen_Accordion_Menu_enqueue_scripts(){
+  
+  // enqueue theme Javascript with jQuery as a dependency
+  // http://codex.wordpress.org/Function_Reference/wp_enqueue_script
+  wp_enqueue_script( 'TwentyFourteen_Accordion_Menu', plugins_url( '/js/TwentyFourteen_Accordion_Menu.js' , __FILE__ ), array('jquery'), false, true );
+  
+}
+
+// add enqueue_scripts to wp_enqueue_scripts action
+// http://codex.wordpress.org/Plugin_API/Action_Reference/wp_enqueue_scripts
+add_action( 'wp_enqueue_scripts', 'TwentyFourteen_Accordion_Menu_enqueue_scripts' );
