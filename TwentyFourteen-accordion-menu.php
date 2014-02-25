@@ -33,3 +33,5 @@ function TwentyFourteen_Accordion_Menu_enqueue_scripts(){
 // add enqueue_scripts to wp_enqueue_scripts action
 // http://codex.wordpress.org/Plugin_API/Action_Reference/wp_enqueue_scripts
 add_action( 'wp_enqueue_scripts', 'TwentyFourteen_Accordion_Menu_enqueue_scripts' );
+
+?>
