@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: TwentyFourteen Accodion Menu
+ * Plugin Name: TwentyFourteen Accordion Menu
  * Description: Adds accordion functionality to the Top primary menu in the TwentyFourteen theme on mobile
  * Version: 1.0
  * Author: Advice Interactive Group
@@ -21,4 +21,4 @@
  * along with this program; if not, write to the Free Software
  * Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
-?>
+
