@@ -1,14 +1,13 @@
 #TwentyFourteen Accordion Menu
 =============================
 
-##Author: Advice Interactive Group
-
+##Author: Andrew Taylor
 
 ### Description
-Adds accordion functionality to the Top primary menu in the WordPress TwentyFourteen theme on mobile.
+WordPress plugin that adds accordion functionality to the Top primary menu in the WordPress TwentyFourteen theme (version 1.2) on mobile.
 
 ###License: GPL2
-Copyright 2014  Advice Interactive Group  (email : info@adviceineractive.com)
+Copyright 2014  Andrew Taylor  (email : andrew@ataylor.me)
  
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License, version 2, as 

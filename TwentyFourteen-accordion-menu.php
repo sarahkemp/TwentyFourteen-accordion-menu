@@ -1,12 +1,12 @@
 <?php
 /**
  * Plugin Name: TwentyFourteen Accordion Menu
- * Description: Adds accordion functionality to the Top primary menu in the TwentyFourteen theme on mobile
- * Version: 1.0
- * Author: Advice Interactive Group
- * Author URI: http://www.adviceinteractivegroup.com
+ * Description: Adds accordion functionality to the Top primary menu in the TwentyFourteen theme (v1.2) on mobile
+ * Version: 1.1
+ * Author: Andrew Taylor
+ * Author URI: http://www.ataylor.me
  * License: GPL2
- * Copyright 2014  Advice Interactive Group  (email : info@adviceineractive.com)
+ * Copyright 2014  Andrew Taylor  (email : andrew@ataylor.me)
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License, version 2, as 
