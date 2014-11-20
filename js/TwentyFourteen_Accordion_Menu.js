@@ -93,7 +93,7 @@ jQuery(document).ready(function($) {
     TwentyFourteen_Accordion_Menu();
 });
 
-// load menu accordion on window resize
-jQuery(window).resize(function(){
+// load menu accordion on menu toggle
+jQuery('#primary-navigation .menu-toggle').on('click', function(){
     TwentyFourteen_Accordion_Menu();
 });
